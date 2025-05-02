@@ -1,0 +1,32 @@
+# Local virtual environment
+myenv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Graphviz output
+*.png
+*.pdf
+*.dot
+
+# Logs
+*.log
+
+# Environment files
+.env

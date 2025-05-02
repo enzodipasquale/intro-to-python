@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+torchaudio
+torchviz
+graphviz
+jupyter
+ipykernel
