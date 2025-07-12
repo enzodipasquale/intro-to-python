@@ -1,8 +1,36 @@
-numpy
-torch
-torchvision
-torchaudio
-torchviz
-graphviz
-jupyter
-ipykernel
+# Core numerical computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# PyTorch ecosystem
+torch>=1.9.0
+torchvision>=0.10.0
+torchaudio>=0.9.0
+torchviz>=0.0.2
+
+# Visualization and plotting
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+jupyterlab>=3.0.0
+
+# System dependencies for visualization
+graphviz>=0.17
+
+# Additional useful packages for economic analysis
+scipy>=1.7.0
+scikit-learn>=1.0.0
+statsmodels>=0.13.0
+
+# Development and testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
